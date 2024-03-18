@@ -1,0 +1,14 @@
+#root {
+  margin: 0; 
+}
+
+* { 
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body { 
+    flex-grow: 1;
+  height: 100vh;
+      background-color: bisque;
+}

@@ -1,0 +1,22 @@
+header { 
+    background-color: darkslategray;
+    padding: 24px;
+        height: 15vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+}
+
+h1 { 
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+}
+
+.para { 
+    padding: 10px;
+    text-align: center;
+    color: blanchedalmond;
+}

@@ -1,0 +1,18 @@
+.container { 
+    height: 70vh;
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+        justify-content: center;
+        flex-grow: 1;
+}
+.mainContent { 
+    padding: 20px;
+}
+
+button { 
+    padding: 26px;
+    margin: 24px;
+    border-radius: 6px;
+    font-size: 1.7rem;
+}
