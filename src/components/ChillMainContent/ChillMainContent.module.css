@@ -1,0 +1,19 @@
+.chillContent { 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+h3 { 
+    text-align: center;
+    font-size: 2rem;
+    padding: 10px;
+}
+
+.chillButton { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

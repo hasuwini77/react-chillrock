@@ -1,0 +1,17 @@
+.rockContent { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rockButton { 
+      display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+.rockButton button{ 
+    background-color: green;
+    color: white;
+    padding: 20px;
+    border-radius: 7px;
+}

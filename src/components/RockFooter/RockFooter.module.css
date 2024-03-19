@@ -1,0 +1,12 @@
+.imgDiv{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+}
+
+.footerImg { 
+    padding: 20px;
+        border-radius: 50%;
+        width: 30%
+}
